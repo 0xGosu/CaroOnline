@@ -1,0 +1,68 @@
+/* Bản địa hóa phiên bản của chuỗi cho ngôn ngữ tiếng Việt */
+
+"Previous_" = "Trước";
+"Next_"="Tiếp";
+"Done_" = "Xong";
+
+"Dismiss_" = "Tắt báo";
+"Notify_" = "Thông báo";
+"OK_" = "OK";
+"Cancel_" = "Hủy bỏ";
+"Create_" = "Tạo";
+
+"Room_Title" = "Tên phòng";
+// chat
+"Chat_Name Name" = "Tên Chat";
+"No_Chat_Name_Message" = "Bạn không có tên Chat!";
+"Set_Chat_Name" = "Đặt tên";
+
+// Game thông báo
+"Game_End" = "Trò chơi kết thúc!";
+"Find_Other_Game" = "Trở lại và tìm một game khác!";
+"You_Won" = "Bạn đã giành chiến thắng game này!";
+"You_Lost" = "Thật không may, Bạn đã thua!";
+"New_Game_Ask" = "Bạn hoặc người chơi khác tạo một game mới, bạn muốn chơi không?";
+
+// Thanh công cụ
+"Create_New_Game" = "Tạo phòng game!";
+"Create_New_Game_Message" = "Tạo phòng chơi game mới (tiêu đề nên ngắn)\nSau khi bấm nút Create, Bạn sẽ được chuyển tới phòng game mới.";
+
+// Menu
+"Setting_And_Account" = "Thiết lập & Tài khoản";
+
+"titleOfMenuSettingTableView_Cell0" = "Thay đổi tên";
+"titleOfMenuSettingTableView_Cell1" = "Thay đổi tài khoản";
+"titleOfMenuSettingTableView_Cell2" = "Tạo tài khoản";
+
+// Tạo tài khoản
+"Create_Account" = "Tạo tài khoản";
+"Account_" = "Tài khoản";
+"Password_" = "Mật khẩu";
+"Type_Here" = "Điền vào đây";
+
+// Thiết lập chung
+
+"Nick_Name" = "Nick chat";
+"Lobby_Name" = "Tên phòng";
+
+//Help
+"Help_Setting" = "Thay đổi thiết lập game";
+"Help_NewGame" = "Tạo game mới";
+"Help_Refresh" = "Cập nhật các game mới tạo";
+"Help_Intro" = "Caro Online phiên bản demo chơi trực tuyến sử dụng máy chủ miễn phí! Nếu quá nhiều người chơi, máy chủ có thể sẽ sụp!";
+"Help_Chat" = "Bật/tắt Chat";
+
+"Help_AskNewGame" = "Chơi một ván mới";
+"Help_Renew" = "Thông báo cho cho người chơi khác ở ngoài để chơi với bạn hoặc để xem!";
+"Help_Tip" = "Bạn nên trò chuyện với người chơi khác để quyết định ai chơi X,O trước. Hãy nhớ rằng, người chơi O đi trước!";
+"Help_ChangePlayer"=" Thay đổi bên từ X sang O,hoặc ngược lại. Sau khi thực hiện di chuyển đầu tiên của bạn, bạn sẽ không thay đổi đc nữa.";
+
+// Cảnh báo
+"Warn_ConnectionError" = "Kiểm tra kết nối của bạn";
+
+// Thanh công cụ
+"New_Game"="Chơi ván mới! ";
+"New_Game_Message" = "Yêu cầu để chơi một ván mới.\n Sau khi nhấn vào nút Tạo, một thông báo sẽ bật lên.";
+
+// Trò chuyện
+"Hello_" = "Xin Chào!";

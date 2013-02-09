@@ -1,0 +1,67 @@
+/* Localized versions of strings for English language*/
+
+"Previous_"="Previous";
+"Next_"="Next";
+"Done_"="Done";
+
+"Dismiss_"="Dismiss";
+"Notify_"="Notify";
+"OK_"="OK";
+"Cancel_"="Cancel";
+"Create_"="Create";
+
+"Room_Title"="Room Title";
+//chat
+"Chat_Name"="Chat Name";
+"No_Chat_Name_Message"="You don't have a Chat Name yet!";
+"Set_Chat_Name"="Set name!";
+
+//Game notify
+"Game_End"="Game End!";
+"Find_Other_Game"="Go back and find another game!";
+"You_Won"="You had won this game!";
+"You_Lost"="Unfortunately, You lost!";
+"New_Game_Ask"="You or other player create a new game! Do you want to play?";
+
+//Toolbar
+"Create_New_Game"="Create Game Room!";
+"Create_New_Game_Message"="Create game room with title by your wish! (title should be short)\nAfter click Create, You'll being transfered to new game room.";
+
+//Menu
+"Setting_And_Account"="Setting & Account";
+
+"titleOfMenuSettingTableView_Cell0"="Change Name";
+"titleOfMenuSettingTableView_Cell1"="Change Account";
+"titleOfMenuSettingTableView_Cell2"="Create Account";
+
+//Create Account
+"Create_Account"="Create Account";
+"Account_"="Account";
+"Password_"="Password";
+"Type_Here"="Type Here";
+
+//General Setting
+"Nick_Name"="Nick Name";
+"Lobby_Name"="Lobby Name";
+
+//Help
+"Help_Setting"="Change Game Setting";
+"Help_NewGame"="Create New Game";
+"Help_Refresh"="Reload games in lobby";
+"Help_Intro"="This caro online demo version uses a free Server! Too many player may cause it to breakdown!";
+"Help_Chat"="Toggle Chat";
+
+"Help_AskNewGame"="Play a new game";
+"Help_Renew"="Notify this game to lobby for other player to play with you or just watch!";
+"Help_Tip"="You should chat with other player to understand eachother before you make any move. Remember that,who play O go first!";
+"Help_ChangePlayer"="Change Side of game from X to O , vice versa. After make your first move, you will not be able to change!";
+
+//Warn
+"Warn_ConnectionError"="Please Check Your Connection";
+
+//Toolbar
+"New_Game"="Play New Game!";
+"New_Game_Message"="Ask to play a new game\nAfter click Create, an arlert will popup.";
+
+//Chat
+"Hello_"="Hello!";

@@ -1,0 +1,18 @@
+/* Localized versions of strings for English language*/
+
+"Previous_"="Previous";
+"Next_"="Next";
+"Done_"="Done";
+
+//chat
+"Chat_Name"="Chat Name!";
+"No_Chat_Name_Message"="You don't have a Chat Name yet!";
+"Set_Chat_Name"="Set name!";
+"Game_End"="Game End!";
+"Find_Other_Game"="Go back and find another game!";
+"You_Won"="You had won this game!";
+"You_Lost"="Unfortunately, You lost!";
+"Dismiss_"="Dismiss!";
+"Notify_"="Notify!";
+"New_Game_Ask"="Other player create a new room! Do you want to play?";
+"OK_"="OK";
